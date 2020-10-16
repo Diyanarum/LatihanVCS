@@ -21,8 +21,11 @@
   
 ![5](https://user-images.githubusercontent.com/72906579/96261489-b813c780-0fea-11eb-8f73-da674619a486.png)
 
+
 SELESAI!! SELAMAT ANDA SUDAH TERDAFTAR..
 SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
+
+
 
 
 
@@ -53,10 +56,13 @@ SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/72906579/96259170-6cabea00-0fe7-11eb-9ce5-84d99854a36f.png)
 
-- Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
+ - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/72906579/96259174-6f0e4400-0fe7-11eb-817d-f89aee7f3614.png)
 
+ - Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian.
+ 
+ ![Screenshot (22)](https://user-images.githubusercontent.com/72906579/96267209-bdc0db80-0ff1-11eb-9a6c-32da7d9cbb17.png)
 
 
 
