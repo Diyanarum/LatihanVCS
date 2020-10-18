@@ -94,12 +94,13 @@
 
 ### CARA ME-REMOTE REPOSITORY PADA GITBASH
 
-  - Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol Code lalu kalian pilih pada kolom https:// setelahnya kalian Copy.
+  - Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol 'Code' lalu kalian pilih pada kolom 'https://' dan setelahnya kalian Copy.
 
-
+![12](https://user-images.githubusercontent.com/72906579/96370692-e8916800-1188-11eb-9b5c-e989f70e92e7.png)
 
   - Setelah Link URL git kita sudah tercopy. Selanjutnya, silahkan buka File Explorer pada Windows kalian. Kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal. 
-  - Kemudian kalian Klik Kanan, dan tekan pada kolom *Git Bash Here*.
+  
+  - Kemudian kalian Klik Kanan, dan tekan pada kolom *'Git Bash Here'*.
   
 ![5](https://user-images.githubusercontent.com/72906579/96366931-f210d500-1174-11eb-9b6d-8a959f822937.png)
 
