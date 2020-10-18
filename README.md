@@ -1,3 +1,19 @@
+![1](https://user-images.githubusercontent.com/72906579/96366907-cee62580-1174-11eb-9649-79f84b038f5b.png)
+![2](https://user-images.githubusercontent.com/72906579/96366920-e3c2b900-1174-11eb-8c46-3456d7558325.png)
+![3](https://user-images.githubusercontent.com/72906579/96366927-ef15e480-1174-11eb-994a-6b84b17ae4cc.png)
+![4](https://user-images.githubusercontent.com/72906579/96366929-f0471180-1174-11eb-96c3-a59b553c992f.png)
+![5](https://user-images.githubusercontent.com/72906579/96366931-f210d500-1174-11eb-9b6d-8a959f822937.png)
+![6](https://user-images.githubusercontent.com/72906579/96366934-f3420200-1174-11eb-980d-5d3282875622.png)
+![7](https://user-images.githubusercontent.com/72906579/96366935-f4732f00-1174-11eb-8873-ac7883ba4ce8.png)
+![8](https://user-images.githubusercontent.com/72906579/96366941-f9d07980-1174-11eb-8641-6a1a6c7defca.png)
+![9](https://user-images.githubusercontent.com/72906579/96366945-fe952d80-1174-11eb-9a24-c10601901933.png)
+
+
+
+
+
+
+
 ### LANGKAH AWAL MENGGUNAKAN GITHUB
 
 * ### LOGIN AKUN GITHUB
