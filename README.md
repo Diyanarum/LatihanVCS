@@ -105,11 +105,12 @@
 ![5](https://user-images.githubusercontent.com/72906579/96366931-f210d500-1174-11eb-9b6d-8a959f822937.png)
 
   - Setelahnya pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax: *'git clone "link URL yang sebelumnya telah kalian copy"'*.
-![6](https://user-images.githubusercontent.com/72906579/96366934-f3420200-1174-11eb-980d-5d3282875622.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/72906579/96674488-1fd36500-1393-11eb-89df-5f425ccaf686.png)
 
   - Setelah proses cloning telah selesai, pada saat ini kita masih berada pada folder awal yang dimana kita harus masuk kedalam folder yang telah kita cloning tadi yaitu *'LatihanVCS'* dengan cara mengetikkan syntax: *'cd LatihanVCS/'*
-  
-![7](https://user-images.githubusercontent.com/72906579/96366935-f4732f00-1174-11eb-8873-ac7883ba4ce8.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/72906579/96674490-219d2880-1393-11eb-91b5-f485cafb04de.png)
 
   - Setelahnya kita akan masuk kedalam folder *LatihanVCS* seperti gambar dibawah ini. Kalian bisa mengedit file README.md kalian yang ada pada File Explorer dengan menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code) sesuai dengan keinginan kalian. Tapi jika disini saya menggunakan notepad untuk mengeditnya.
   
