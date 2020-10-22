@@ -1,6 +1,6 @@
-### Nama: Diyan Arum M
+### NAMA: DIYAN ARUM M
 
-### Kelas: TI. 20. A. 1
+### KELAS: TI. 20. A. 1
 
 ### NIM: 312010133
 
